@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695418275 source:c:\users\note\documents\projetos c\cadastro de materiais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
